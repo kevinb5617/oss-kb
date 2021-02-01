@@ -12,7 +12,7 @@
 <br /><br />
 
 ## Discord Message!
-![Discord Message](images/msg.png)
+![Discord Message](images/msg.jpg)
 
 <br /><br />
 
@@ -32,22 +32,28 @@ My initial reaction to reading the story about Jesse Jordan is that developing n
 
 ## Tree Example
 
-![Tree Example](images/tree.png)
+![Tree Example](images/tree.jpg)
 
 <br /><br />
 
 ## 7 Regex Problems Completed
 
-![Regex](images/regex.png)
+![Regex](images/regex.jpg)
 
 <br /><br />
 
 ## 5 Regex Crosswords Completed
 
-![Regex Crossword](images/regex_crossword.png)
+![Regex Crossword](images/regex_crossword.jpg)
 
 <br /><br />
 
 ## Blockly Puzzle Completed
 
-![Blockly Puzzle](images/blockly.png)
+![Blockly Puzzle](images/blockly.jpg)
+
+<br /><br />
+
+## Open Source Project Ideas
+
+Although I currently accepted a full-time position for after graduation, I think having a personal website that can speak for itself in terms of skills. By that I mean I think I would like to construct my own personal website with resources like React. On the actual website I would plan to explain some of the projects I've worked on inside/outside school. To allow this project to be used by others, I think templating the project in another git branch could be helpful, so people could use a blank slate.
