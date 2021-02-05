@@ -2,6 +2,12 @@
 
 https://github.com/kevinb5617/lab2part1
 
+![gitk](gitk.jpg)
+
+![git graph](git_graph.jpg)
+
+gitk definitely provides more useful information than the command line tool.
+
 ## Part 2
 
 https://github.com/kevinb5617/Spoon-Knife
