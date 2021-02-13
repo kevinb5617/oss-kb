@@ -2,8 +2,8 @@
 
 [Wiki Page](https://github.com/kevinb5617/oss-kb/wiki/Lab-3-Project-Brainstorming)
 
-![formulas](images/latex.png)
-![matrix](images/matrix.png)
+![formulas](images/latex.PNG)
+![matrix](images/matrix.PNG)
 
 # Part 2
 
@@ -30,7 +30,7 @@
 * Lines: 21118
 * Authors: 18
 
-![gource](images/gource.png)
+![gource](images/gource.PNG)
 
 ---
 
