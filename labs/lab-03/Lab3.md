@@ -46,6 +46,8 @@
 
 * Current Branches: There are 5 current branches (master, URLtraverseandJSON, User-Interface, Class-Files, and rmupdate)
 
+* Gitstats says there are 1590 lines of code and 4 contributors
+
 ---
 
 ## OpenCircuits
