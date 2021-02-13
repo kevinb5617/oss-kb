@@ -48,6 +48,8 @@
 
 * Gitstats says there are 1590 lines of code and 4 contributors
 
+![smab](images/smab.png)
+
 ---
 
 ## OpenCircuits
@@ -59,6 +61,8 @@
 * Branches: origin/AnalogWork origin/Browser-compatibility-(version,-etc.) origin/Documentation origin/HEAD -> origin/master origin/ICLibrary origin/MUXLabel origin/MainTutorial origin/Optimizations origin/PlaceComponentFix origin/Replace_Component origin/SelectionToolTest origin/Snap_Options origin/TashBranch origin/UnitTests origin/VideoTutorialPage origin/all origin/db-versioning origin/expression-to-circuit origin/master origin/port-8081
 * Gitstats says there is only 26335 lines of code
 
+![circuit](images/circuit.png)
+
 ---
 
 ## Venue Project:
@@ -69,5 +73,7 @@
 * The current branches are: dependabot/npm_and_yarn/axios-0.21.1 dependabot/npm_and_yarn/server/date-and-time-0.14.2 course_overview snooze agreement notification engagements multiselect SVG-Icons minn_fixes better-dashboard organizations stats uml new_course_fix ethanfixes dark_mode drop_down_modulation course_settings clipboard
 * Gitstats: The number of lines reported by gitstats is substaintially lower than that from the command line
 * It also reported 25 authors compared to the 16 on the repo.
+
+![venue](images/venue.png)
 
 ---
