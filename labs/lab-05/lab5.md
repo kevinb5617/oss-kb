@@ -1,6 +1,6 @@
 # Open Source Software Lab 5
 
-For the first part of the lab, I have all of the steps from the cmake tutorial (steps 1-5) [here](https://github.com/kevinb5617/oss-kb/tree/master/labs/lab-05), within their respective directories [step1](https://github.com/kevinb5617/oss-kb/tree/master/labs/lab-05/step1), [step2](https://github.com/kevinb5617/oss-kb/tree/master/labs/lab-05/step2), [step3](https://github.com/kevinb5617/oss-kb/tree/master/labs/lab-05/step3), [step4](https://github.com/kevinb5617/oss-kb/tree/master/labs/lab-05/step4), and [step5](https://github.com/kevinb5617/oss-kb/tree/master/labs/lab-05/step). In each directory is the associated CMakeLists.txt file(s) and screenshots of the working output.
+For the first part of the lab, I have all of the steps from the cmake tutorial (steps 1-5) [here](https://github.com/kevinb5617/oss-kb/tree/master/labs/lab-05), within their respective directories [step1](https://github.com/kevinb5617/oss-kb/tree/master/labs/lab-05/step1), [step2](https://github.com/kevinb5617/oss-kb/tree/master/labs/lab-05/step2), [step3](https://github.com/kevinb5617/oss-kb/tree/master/labs/lab-05/step3), [step4](https://github.com/kevinb5617/oss-kb/tree/master/labs/lab-05/step4), and [step5](https://github.com/kevinb5617/oss-kb/tree/master/labs/lab-05/step5). In each directory is the associated CMakeLists.txt file(s) and screenshots of the working output.
 
 ---
 
