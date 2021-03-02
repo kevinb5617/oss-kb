@@ -4,7 +4,7 @@ For the first part of the lab, I have all of the steps from the cmake tutorial (
 
 ---
 
-For the second part of the lab, I included my static/shared libraries [Makefile](https://github.com/kevinb5617/oss-kb/tree/master/labs/lab-05/final/Makefile), cmake-generated [Makefile](https://github.com/kevinb5617/oss-kb/tree/master/labs/lab-05/final/cmake/Makefile), and [CMakeLists.txt](https://github.com/kevinb5617/oss-kb/tree/master/labs/lab-05/final/CmakeLists.txt). Lastly, I have several photos showing the output of the static/shared library output, and the same program built with cmake.
+For the second part of the lab, I included my static/shared libraries [Makefile](https://github.com/kevinb5617/oss-kb/tree/master/labs/lab-05/final/Makefile), cmake-generated [Makefile](https://github.com/kevinb5617/oss-kb/tree/master/labs/lab-05/final/cmake/Makefile), and [CMakeLists.txt](https://github.com/kevinb5617/oss-kb/tree/master/labs/lab-05/final/cmake/CMakeLists.txt). Lastly, I have several photos showing the output of the static/shared library output, and the same program built with cmake.
 
 ---
 
