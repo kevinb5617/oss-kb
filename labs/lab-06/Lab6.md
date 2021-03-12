@@ -16,7 +16,7 @@ See updated code [here](plot_words_part1.py) (changes in lines 78-83)
 
 See updated code [here](plot_words_part3.py) (changes in lines 65, 78-82)
 
-Part 3 output below
+### Part 3 output below
 
 ![part3_output](images/part_3.png)
 
@@ -25,5 +25,7 @@ Part 3 output below
 ## Word Ladder Part 4
 
 See updated code [here](plot_words_part4.py) (changes in lines 51 - 57)
+
+### Part 4 output below
 
 ![part4_output](images/part_4.png)
