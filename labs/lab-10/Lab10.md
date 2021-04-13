@@ -1,6 +1,6 @@
 ## Checkpoint 0
 
-The Supreme Court ruling on the "copyright-ability" of APIs brings forth an interesting discussion. One perspective, which the Supreme Court seemed to stress, was that the APIs Google recreated from Oracle were rather barebones or could not really be created in a different way. If some of those APIs contained the most basic read/write functionality to interact with the Java Virtual Machine, I would assume there is not really another way to go about that process. In those cases, I agree with the ruling: those APIs should not be under copyright. An opposing argument is that even open access to these APIs could prove to be a security issue. If APIs are released under very "liberal" licenses, it may allow outside developers to analyze the different services the API interacts with. This could become an issue with API software for banking systems, for example. Having a blanket copyright classification likely isn't the best solution. Leaving it to the original developers to decide on an open source license seems to be the best course of action.
+See my analysis of the Supreme Court Decision on API copyright [here](https://rcos.io/projects/kevinb5617/resumake/blog#:~:text=OSS%20Lab%2010%20Supreme%20Court%20Analysis)
 
 ## Checkpoint 1
 
